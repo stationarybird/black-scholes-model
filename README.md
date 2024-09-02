@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+Black-Scholes Model
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-7bss584ezla.streamlit.app/)
 
 ### How to run it on your own machine
 
@@ -17,3 +15,19 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Inputs
+
+1. Ticker. Takes input and puts into Yahoo API
+
+2. Strike Price. Price at which option can be exercised
+
+3. Risk Free Rate. 
+
+4. Volatility
+
+5. Exercise Date. 
+
+### Output
+
+Click either button to find either call or put option price given your inputs. 
