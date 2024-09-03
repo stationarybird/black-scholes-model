@@ -31,3 +31,7 @@ Black-Scholes Model
 ### Output
 
 Click either button to find either call or put option price given your inputs. 
+
+### Future Developments
+
+Add stock graphs, adjustable time for the graphs, and work on Binomial Option Model and Monte Carlo Simulation
