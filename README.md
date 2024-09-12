@@ -1,4 +1,4 @@
-Black-Scholes Model
+Options Pricing Models
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-7bss584ezla.streamlit.app/)
 
@@ -18,13 +18,15 @@ Black-Scholes Model
 
 ### Inputs
 
+Can first select between either Black-Scholes or Binomial Option Pricing Models
+
 1. Ticker. Takes input and puts into Yahoo API
 
 2. Strike Price. Price at which option can be exercised
 
 3. Risk Free Rate. 
 
-4. Volatility
+4. Volatility.
 
 5. Exercise Date. 
 

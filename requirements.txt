@@ -3,3 +3,4 @@ yfinance
 scipy
 datetime
 python-math
+numpy
